@@ -1,0 +1,2 @@
+% of total 2018 using DAX = SUM(Sales[Sales 2018])/CALCULATE(SUM(Sales[Sales 2018]),ALL(Sales))
+% of total 2019 usign DAX = SUM(Sales[Sales 2019])/CALCULATE(SUM(Sales[Sales 2019]),ALL(Sales))
